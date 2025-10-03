@@ -20,6 +20,3 @@ Soft Skills: Communication skills, Time management, Adaptability, Teamwork, Prob
 Ability to learn.
 
 Language Skills: Arabic, English.
-
-
-[![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fdata-analyst-logo_400696300.htm&psig=AOvVaw2EZqCVOUaJFRF0XeuAgAZH&ust=1759561625412000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDThIK8h5ADFQAAAAAdAAAAABAE)]()
