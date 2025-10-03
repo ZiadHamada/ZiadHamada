@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a Junior Machine Learning Engineer
+I'm a Junior Data Analyst
 
 
 
@@ -14,7 +14,7 @@ I'm a Junior Machine Learning Engineer
 ## 🛠 Skills
 Technical programming: Python, SQL, C++, java, C#.
 
-Tools and packages: Numpy, Pandas, , Matplotlib , Seaborn, Scipy, Scikit Learn, Tensorflow, Keras, Pytorch, nltk, OpenCV.
+Tools and packages: Power BI, Excel, Tableau, Numpy, Pandas, , Matplotlib , Seaborn, Scipy, Scikit-Learn, Keras.
 
 Soft Skills: Communication skills, Time management, Adaptability, Teamwork, Problem-solving skills, Domain knowledge, Selfmotivation,
 Ability to learn.
